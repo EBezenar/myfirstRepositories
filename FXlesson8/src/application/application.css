@@ -1,0 +1,19 @@
+/* 
+ * JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property
+ * 
+ */
+ #b {
+ 	-fx-font-size: 30px;
+ 	-fx-background-color:cadetblue; 
+    -fx-padding: 6 6 6;
+    -fx-font-weight:bold;  
+    
+ 	
+ }
+ .root{
+ 	-fx-background-color:#ff69b4;
+ }
+ #l{
+ 	-fx-font-size:160px;
+    -fx-text-fill: #FFF;
+ }
